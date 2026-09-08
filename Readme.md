@@ -5,7 +5,7 @@ This repository serves as a centralized hub for my data structures and algorithm
 ## 📊 Overall Progress & Stats
 
 <!-- This card pulls real-time data from your LeetCode profile -->
-![Rudra's LeetCode Stats](https://vercel.app)
+![Rudra's LeetCode Stats][(https://leetcode.com/u/Rudra_Singh_Chauhan/))]
 
 ## 🛠️ Tech Stack & Focus
 - **Language:** Java
@@ -13,4 +13,4 @@ This repository serves as a centralized hub for my data structures and algorithm
 - **Automation:** Submissions are automatically pushed via LeetCode sync integrations to keep an active, transparent record of consistency.
 
 ---
-Connect with me on [LeetCode]([https://leetcode.com](https://leetcode.com/u/Rudra_Singh_Chauhan/)) to track my daily progress.
+Connect with me on [LeetCode]([https://leetcode.com/u/Rudra_Singh_Chauhan/]) to track my daily progress.
