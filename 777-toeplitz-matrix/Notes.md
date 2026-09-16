@@ -1,1 +1,1 @@
-<h2>toeplitz-matrix Notes</h2><hr>[ Time taken: 1d 4hrs 15m 29s ]
+<h2>toeplitz-matrix Notes</h2><hr>[ Time taken: 1d 4hrs 17m 47s ]
